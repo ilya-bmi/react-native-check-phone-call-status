@@ -1,21 +1,55 @@
 {
-  "name": "react-native-check-phone-call-status",
-  "version": "0.3.5",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      "react-native-check-phone-call-status@0.3.6",
+      "/Users/ilyalazarev/src/recornapp"
+    ]
+  ],
+  "_from": "react-native-check-phone-call-status@0.3.6",
+  "_id": "react-native-check-phone-call-status@0.3.6",
+  "_inBundle": false,
+  "_integrity": "sha1-MMZm8uFdKXlagevbEryezf48chw=",
+  "_location": "/react-native-check-phone-call-status",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-check-phone-call-status@0.3.6",
+    "name": "react-native-check-phone-call-status",
+    "escapedName": "react-native-check-phone-call-status",
+    "rawSpec": "0.3.6",
+    "saveSpec": null,
+    "fetchSpec": "0.3.6"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-check-phone-call-status/-/react-native-check-phone-call-status-0.3.6.tgz",
+  "_spec": "0.3.6",
+  "_where": "/Users/ilyalazarev/src/recornapp",
+  "author": {
+    "name": "Tori Huang"
+  },
+  "bugs": {
+    "url": "https://github.com/torihuang/react-native-check-phone-call-status/issues"
+  },
+  "description": "## Getting started",
+  "homepage": "https://github.com/torihuang/react-native-check-phone-call-status#readme",
   "keywords": [
     "react-native"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/torihuang/react-native-check-phone-call-status"
-  },
-  "author": "Tori Huang",
   "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-check-phone-call-status",
   "peerDependencies": {
     "react-native": "^0.45.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torihuang/react-native-check-phone-call-status.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.6"
 }

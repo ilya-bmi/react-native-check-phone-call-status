@@ -1,6 +1,9 @@
 
 # react-native-check-phone-call-status
 
+Whis version use CallKit instead of CTCallCenter.
+It works on IOS 13.
+
 ## Getting started
 
 `$ npm install react-native-check-phone-call-status --save`
@@ -30,4 +33,3 @@ RNCheckPhoneCallStatus.get((error, status) => {
 });
 ```
 
-Would be great to have this for Android as well. Feel free to make a PR!
