@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNCheckPhoneCallStatus
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://recostar.ru"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "Tori Huang" => "torihuangdev@gmail.com" }
