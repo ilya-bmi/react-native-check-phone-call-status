@@ -1,32 +1,30 @@
 {
   "_args": [
     [
-      "react-native-check-phone-call-status@0.3.6",
-      "/Users/ilyalazarev/src/recornapp"
+      "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+      "/Users/ilyalazarev/src/recorn-rn61-test"
     ]
   ],
-  "_from": "react-native-check-phone-call-status@0.3.6",
-  "_id": "react-native-check-phone-call-status@0.3.6",
+  "_from": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+  "_id": "react-native-check-phone-call-status@git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git#81f491e4aef349f2f3d21dbaf173c1c796d79d5b",
   "_inBundle": false,
-  "_integrity": "sha1-MMZm8uFdKXlagevbEryezf48chw=",
+  "_integrity": "",
   "_location": "/react-native-check-phone-call-status",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-check-phone-call-status@0.3.6",
-    "name": "react-native-check-phone-call-status",
-    "escapedName": "react-native-check-phone-call-status",
-    "rawSpec": "0.3.6",
-    "saveSpec": null,
-    "fetchSpec": "0.3.6"
+    "type": "git",
+    "raw": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+    "rawSpec": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+    "saveSpec": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+    "fetchSpec": "https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-check-phone-call-status/-/react-native-check-phone-call-status-0.3.6.tgz",
-  "_spec": "0.3.6",
-  "_where": "/Users/ilyalazarev/src/recornapp",
+  "_resolved": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git#81f491e4aef349f2f3d21dbaf173c1c796d79d5b",
+  "_spec": "git+https://github.com/ilya-bmi/react-native-check-phone-call-status.git",
+  "_where": "/Users/ilyalazarev/src/recorn-rn61-test",
   "author": {
     "name": "Tori Huang"
   },
